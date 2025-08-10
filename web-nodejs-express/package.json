@@ -1,0 +1,21 @@
+{
+  "name": "web-nodejs-express",
+  "version": "1.0.0",
+  "description": "A simple Node.js Express web 'Hello World' application.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "hello-world",
+    "node",
+    "express",
+    "web"
+  ],
+  "author": "Full Stack Developer Agent",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
