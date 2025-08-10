@@ -1,0 +1,17 @@
+{
+  "name": "cli-nodejs",
+  "version": "1.0.0",
+  "description": "A simple Node.js CLI 'Hello World' application.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "hello-world",
+    "node",
+    "cli"
+  ],
+  "author": "Full Stack Developer Agent",
+  "license": "MIT"
+}
